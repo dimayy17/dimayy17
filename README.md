@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi there, I'm Dimas 👋
 
-<!--
-**dimayy17/dimayy17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+Career switcher into **Data & Tech** with a strong interest in **Data Analytics** and **Cloud-based Data Engineering**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 📊 Learning **SQL, Python, Pandas**
+* ☁️ Hands-on with **Azure SQL & Docker**
+* 🔄 Practicing **ETL pipelines (Bronze → Silver → Gold)**
+* 💻 Passionate about working with data to drive insight
+
+---
+
+## 🛠️ Tech Stack
+
+* **Languages**: SQL, Python
+* **Data**: Pandas, Power Query, Excel
+* **Database**: Azure SQL Server
+* **DevOps**: Docker
+* **Concepts**: ETL, Data Warehouse, Data Cleaning
+
+---
+
+## 📂 Featured Projects
+
+* 🔹 **ETL Pipeline (Bronze–Silver–Gold)** — Data cleaning & transformation using SQL
+* 🔹 **Bulk Insert Automation** — CSV ingestion into Azure SQL with Docker
+* 🔹 **Excel to Data Pipeline** — Power Query & SQL-based workflow
+
+*(More projects coming — building consistently 🚧)*
+
+---
+
+## 🎯 Current Focus
+
+* Strengthening **SQL for analytics**
+* Improving **Python for data processing**
+* Building portfolio-ready **real-world projects**
+
+---
+
+## 📫 Let's Connect
+
+* GitHub: @yourusername
+
+> *"Progress over perfection — one commit at a time."* 🚀
