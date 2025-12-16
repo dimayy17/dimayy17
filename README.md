@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-Career switcher into **Data & Tech** with a strong interest in **Data Analytics** and **Cloud-based Data Engineering**.
+Career **Data & Tech** with a strong interest in **Data Analytics** and **Cloud-based Data Engineering**.
 
 * 📊 Learning **SQL, Python, Pandas**
 * ☁️ Hands-on with **Azure SQL & Docker**
