@@ -40,6 +40,6 @@ Career **Data & Tech** with a strong interest in **Data Analytics** and **Cloud-
 
 ## 📫 Let's Connect
 
-* GitHub: @yourusername
+* GitHub: @dimayy17
 
 > *"Progress over perfection — one commit at a time."* 🚀
