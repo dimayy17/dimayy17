@@ -4,7 +4,6 @@
 
 Career **Data & Tech** with a strong interest in **Data Analytics** and **Cloud-based Data Engineering**.
 
-* 📊 Learning **SQL, Python, Pandas**
 * ☁️ Hands-on with **Azure SQL & Docker**
 * 🔄 Practicing **ETL pipelines (Bronze → Silver → Gold)**
 * 💻 Passionate about working with data to drive insight
